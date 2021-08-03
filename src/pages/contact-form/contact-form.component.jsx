@@ -2,6 +2,8 @@ import React from "react";
 import styles from "./contact-form.module.css";
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import mail from "../../assets/icons/mail.png";
+import telephone from "../../assets/icons/telephone.png";
 
 const ContactForm = () => {
   return (
@@ -108,6 +110,18 @@ const ContactForm = () => {
                           <br />
                           Simply fill the from and send me an email.
                         </p>
+                        <div className={styles.mail}>
+                          <a href="mailto:ssunil.uk@gmail.com">
+                          <main>
+                            <img src={mail} alt="img" />
+                            <div>ssunil.uk@gmail.com</div>
+                          </main>
+                          </a>
+                          <main>
+                            <img src={telephone} alt="img" />
+                            <div>+91 7764996470</div>
+                          </main>
+                        </div>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
                                 <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>

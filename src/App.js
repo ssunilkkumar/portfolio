@@ -15,6 +15,7 @@ import FooterPanel from "./components/footer/footer.component";
 
 import "./App.css";
 import ParticlesBackground from "./components/layout/Particles"
+import { fade } from "@material-ui/core";
 
 const App = () => {
   return (
@@ -24,12 +25,6 @@ const App = () => {
       <MyNavbar />
       <hr />
       <div>
-        {/* <Parallax
-          blur={{ min: -30, max: 30 }}
-          bgImage={require("./assets/img/parallex/pexels.jpeg")}
-          bgImageAlt=""
-          strength={-200}
-        > */}
           <div>
             <Container className="container-box rounded">
               <Fade duration={500}>
@@ -40,25 +35,25 @@ const App = () => {
         {/* </Parallax> */}
       </div>
       <Container className="container-box rounded">
-        <Slide bottom duration={500}>
+        <Fade bottom duration={500}>
           <hr />
           <SkillComp />
-        </Slide>
+        </Fade>
       </Container>
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>
-            <hr />
+            {/* <hr /> */}
 
             {/* <Experience /> */}
           </Fade>
         </Container>
       </div>
       <Container className="container-box rounded">
-        <Slide bottom duration={500}>
+        <fade bottom duration={500}>
           <hr />
           <TimeLine />
-        </Slide>
+        </fade>
       </Container>
       <Container className="container-box rounded">
         <Fade duration={500}>

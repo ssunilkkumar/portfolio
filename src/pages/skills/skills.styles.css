@@ -1,4 +1,18 @@
-
+.tech {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: space-between;
+  width: 70%;
+  margin:auto;
+}
+.tech div {
+  padding: 10px;
+}
+.tech img{
+  width: 60px;
+}
+.tech img:hover {
+  transform: scale(1.5)}
 
 .image-style {
   width: 3em;

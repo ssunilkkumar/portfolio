@@ -13,7 +13,6 @@ import Card from "react-bootstrap/Card";
 import REACT from "../../assets/img/skills/react.svg";
 import NODE_JS from "../../assets/img/skills/nodejs.svg";
 import EXPRESS from "../../assets/img/skills/express.svg";
-import POSTGRESQL from "../../assets/img/skills/postgresql.svg";
 import MONGODB from "../../assets/img/skills/mongodb.svg";
 import JAVASCRIPT from "../../assets/img/skills/javascript.svg"
 import Image from "react-bootstrap/Image";

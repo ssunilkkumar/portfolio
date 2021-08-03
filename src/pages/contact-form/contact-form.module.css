@@ -3,6 +3,7 @@
   background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 100%);
   padding: 30px 40px;
   border-radius: 10px;
+  color: white;
 }
 
 .bg button {
@@ -14,4 +15,15 @@
 }
 .github {
   padding:20px;
+}
+.mail img{
+ width: 20px;
+}
+.mail main {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  gap: 10px;
+  align-items:center;
+  padding: 10px 0;
 }
