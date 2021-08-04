@@ -117,10 +117,12 @@ const ContactForm = () => {
                             <div>ssunil.uk@gmail.com</div>
                           </main>
                           </a>
+                          <a href="tel:+91764996470">
                           <main>
                             <img src={telephone} alt="img" />
                             <div>+91 7764996470</div>
                           </main>
+                          </a>
                         </div>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
