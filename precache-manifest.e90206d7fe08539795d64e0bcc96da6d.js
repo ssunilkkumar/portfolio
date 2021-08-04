@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d14eda51ffa7e81f7af44eae5844005",
+    "revision": "e57dc62a97d24d1332fbc3caad4cef43",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "429fdf52d79de6e1be66",
-    "url": "/portfolio/static/css/main.67a0472f.chunk.css"
+    "revision": "b038a725e6810ab60694",
+    "url": "/portfolio/static/css/main.46516c65.chunk.css"
   },
   {
-    "revision": "72293abb4f94521fddb1",
-    "url": "/portfolio/static/js/2.3f18c314.chunk.js"
+    "revision": "471b48455631a65cee04",
+    "url": "/portfolio/static/js/2.1efcfed5.chunk.js"
   },
   {
     "revision": "70b070bc4c4b879d3d3b9683ea8bec9f",
-    "url": "/portfolio/static/js/2.3f18c314.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.1efcfed5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "429fdf52d79de6e1be66",
-    "url": "/portfolio/static/js/main.4eac11b8.chunk.js"
+    "revision": "b038a725e6810ab60694",
+    "url": "/portfolio/static/js/main.49b12778.chunk.js"
   },
   {
     "revision": "0647c3197700d00358e9",
     "url": "/portfolio/static/js/runtime-main.51b06349.js"
-  },
-  {
-    "revision": "21999f09aca6272cd15a16d949434923",
-    "url": "/portfolio/static/media/accenture-3.21999f09.svg"
   },
   {
     "revision": "7516e524df45623611997a89cfe26bf7",
@@ -60,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/javascript.2d2e31cc.svg"
   },
   {
+    "revision": "5301af1ef8b890117924095988ee0818",
+    "url": "/portfolio/static/media/javascript.5301af1e.png"
+  },
+  {
     "revision": "82291019f34ab54a677c456a84127cc3",
     "url": "/portfolio/static/media/material-ui-1.82291019.svg"
   },
@@ -68,20 +68,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/mongodb.2985235d.svg"
   },
   {
-    "revision": "a123152868245dee71c441124a98ac3e",
-    "url": "/portfolio/static/media/nodejs.a1231528.svg"
+    "revision": "bfa4d37eb89db62d19b23145a7d79508",
+    "url": "/portfolio/static/media/mongodb.bfa4d37e.png"
   },
   {
-    "revision": "d7c985e7cca077dc2d77f89a66573e35",
-    "url": "/portfolio/static/media/postgresql.d7c985e7.svg"
+    "revision": "a123152868245dee71c441124a98ac3e",
+    "url": "/portfolio/static/media/nodejs.a1231528.svg"
   },
   {
     "revision": "e1da0271939278b4413962174218411d",
     "url": "/portfolio/static/media/profile.e1da0271.png"
   },
   {
+    "revision": "081d972a580c68a2ad41297df8f6431a",
+    "url": "/portfolio/static/media/react.081d972a.png"
+  },
+  {
     "revision": "4009eef3b3e291f296e71962c70895c5",
     "url": "/portfolio/static/media/react.4009eef3.svg"
+  },
+  {
+    "revision": "8251fe76d7487a28b07603515b300964",
+    "url": "/portfolio/static/media/redux.8251fe76.png"
   },
   {
     "revision": "aa0a337603611296524a666b62a9ff23",
