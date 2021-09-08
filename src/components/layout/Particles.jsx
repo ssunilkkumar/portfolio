@@ -1,13 +1,10 @@
 import React from 'react'
 import Particles from 'react-particles-js'
-import { background } from '../../profile'
-import ScrollDown from "../scroll-down/scroll-down.component";
-
 
 const ParticlesBackground = () => {
     return (
-        <div className="particle">
-            { background.type === 'Snow' && <Particles
+        <div className="particle" id="home">
+           <Particles
             height="100vh"
             width="100%"
                 params={{
@@ -68,8 +65,7 @@ const ParticlesBackground = () => {
                 }
             }} 
             
-            />}
-              <ScrollDown />
+            />
         </div>
     )
 }

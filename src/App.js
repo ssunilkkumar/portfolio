@@ -1,28 +1,23 @@
 import React from "react";
+import "./App.css";
 import MyNavbar from "./components/my-navbar/my-navbar.component";
-import MyTitleMessage from "./components/title-message/title-message.component";
 import About from "./pages/about/about.component";
 import SkillComp from "./pages/skills/skills.component";
 import Container from "react-bootstrap/Container";
-import TimeLine from "./components/projects-timeline/projects-timeline.component";
-import Experience from "./pages/experience/experience.component";
+import TimeLine from "./pages/projects-timeline/projects-timeline.component";
 import Fade from "react-reveal/Fade";
-import Slide from "react-reveal/Slide";
 import ContactForm from "./pages/contact-form/contact-form.component";
-import { Parallax } from "react-parallax";
-
+import TitleMessage from "./pages/title/title.component"
 import FooterPanel from "./components/footer/footer.component";
-
-import "./App.css";
 import ParticlesBackground from "./components/layout/Particles"
-import { fade } from "@material-ui/core";
 
 const App = () => {
   return (
     <div className="App" style={{ position: "relative" }}>
       <ParticlesBackground />
-      <MyTitleMessage />
       <MyNavbar />
+      <TitleMessage />
+      
       <hr />
       <div>
           <div>
@@ -32,7 +27,6 @@ const App = () => {
               </Fade>
             </Container>
           </div>
-        {/* </Parallax> */}
       </div>
       <Container className="container-box rounded">
         <Fade bottom duration={500}>
@@ -42,11 +36,6 @@ const App = () => {
       </Container>
       <div>
         <Container className="container-box rounded">
-          <Fade duration={500}>
-            {/* <hr /> */}
-
-            {/* <Experience /> */}
-          </Fade>
         </Container>
       </div>
       <Container className="container-box rounded">

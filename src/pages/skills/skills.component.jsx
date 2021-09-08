@@ -1,6 +1,4 @@
 import React from "react";
-import Skills from '../../components/layout/skills'
-import { skillsBar} from '../../profile'
 import HTML5 from "../../assets/img/tech/html.png";
 import CSS3 from "../../assets/img/tech/css-3.png";
 import REACT from "../../assets/img/tech/react.png";
