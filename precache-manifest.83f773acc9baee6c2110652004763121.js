@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d41381f871ba06902bfefa2639acc4a",
+    "revision": "7630c530acc9d226da592c622d7aa4e4",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c918bd1b0752dfc5385e",
-    "url": "/portfolio/static/css/main.46516c65.chunk.css"
+    "revision": "f0ab4cb8cc268dcc1107",
+    "url": "/portfolio/static/css/main.7f8dbf6b.chunk.css"
   },
   {
-    "revision": "dd89f3d5c7592299eb1d",
-    "url": "/portfolio/static/js/2.029babcc.chunk.js"
+    "revision": "ed2df715767771db712e",
+    "url": "/portfolio/static/js/2.c97c9850.chunk.js"
   },
   {
     "revision": "70b070bc4c4b879d3d3b9683ea8bec9f",
-    "url": "/portfolio/static/js/2.029babcc.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.c97c9850.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c918bd1b0752dfc5385e",
-    "url": "/portfolio/static/js/main.13021eb5.chunk.js"
+    "revision": "f0ab4cb8cc268dcc1107",
+    "url": "/portfolio/static/js/main.ef306ba5.chunk.js"
   },
   {
     "revision": "0647c3197700d00358e9",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7516e524df45623611997a89cfe26bf7",
     "url": "/portfolio/static/media/airtable.7516e524.png"
-  },
-  {
-    "revision": "ffded2381d25dd906406d6e07f91dea5",
-    "url": "/portfolio/static/media/bootstrap-4.ffded238.svg"
   },
   {
     "revision": "fe1ba489f3ab3a7dca6b24e713243211",
@@ -44,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/express.c6bab64b.svg"
   },
   {
-    "revision": "0555bfb7e81f57a1efe6a53c7490abb7",
-    "url": "/portfolio/static/media/github-api.0555bfb7.svg"
-  },
-  {
     "revision": "676e8188f003ed5d4882a0d0f378dad3",
     "url": "/portfolio/static/media/html-5.676e8188.svg"
   },
@@ -58,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5301af1ef8b890117924095988ee0818",
     "url": "/portfolio/static/media/javascript.5301af1e.png"
-  },
-  {
-    "revision": "82291019f34ab54a677c456a84127cc3",
-    "url": "/portfolio/static/media/material-ui-1.82291019.svg"
   },
   {
     "revision": "2985235df31b8742d893d5b7e80145c5",
